@@ -1,5 +1,10 @@
-@[TOC](减少 Webpack 打包时间)
-
+<!--
+ * @Description: 
+ * @Autor: zengbotao@myhexin.com
+ * @Date: 2022-11-08 20:49:01
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-11-09 10:40:53
+-->
 ## 1.1优化 Loader
 对于 Loader 来说，影响打包效率首当其冲必属 Babel 了。因为 Babel 会将代码转为字符串生成 AST，然后对 AST 继续进行转变最后再生成新的代码，项目越大，**转换代码越多，效率就越低**。当然了，我们是有办法优化的。
 

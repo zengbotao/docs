@@ -4,7 +4,7 @@
  # @Autor: zengbotao@myhexin.com
  # @Date: 2022-11-08 19:51:20
  # @LastEditors: Please set LastEditors
- # @LastEditTime: 2022-11-08 20:13:02
+ # @LastEditTime: 2022-11-09 12:32:17
 ### 
 
 # 确保脚本抛出遇到的错误
@@ -17,7 +17,7 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-# echo 'www.example.com' > CNAME
+echo 'zbt.ailiwen.com.cn' > CNAME
 
 git init
 git add -A

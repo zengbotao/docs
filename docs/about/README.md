@@ -1,4 +1,4 @@
-## 1 初体验 vuepress
+## 1、 初体验 vuepress
 
 1、在 github 上创建一个空仓库；拷贝到本地
 2、依次输入代码，运行 npx vuepress dev . ，即可看到最简易的 blog。
