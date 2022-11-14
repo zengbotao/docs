@@ -78,7 +78,7 @@ module.exports = {
         children: getCatalog('construction')
       },
       {
-        title: "项目笔记",
+        title: "前端项目笔记",
         collapsable: false,
         children: [
           {
@@ -105,6 +105,16 @@ module.exports = {
             title: "网页优化", // 必要的
             collapsable: false,
             children:getCatalog('note')
+          },
+        ],
+      },
+      {
+        title: "后端项目笔记",
+        collapsable: false,
+        children: [
+          {
+            title: "java", // 必要的
+            children: getCatalog('java')
           },
         ],
       },
