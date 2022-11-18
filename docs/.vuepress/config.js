@@ -109,12 +109,12 @@ module.exports = {
         ],
       },
       {
-        title: "后端项目笔记",
+        title:"后端项目笔记",
         collapsable: false,
         children: [
           {
             title: "java", // 必要的
-            children: getCatalog('java')
+            children:getCatalog('java')
           },
         ],
       },
