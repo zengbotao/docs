@@ -110,11 +110,15 @@ module.exports = {
       },
       {
         title:"后端项目笔记",
-        collapsable: false,
+        // collapsable: false,
         children: [
           {
             title: "java", // 必要的
             children:getCatalog('java')
+          },
+          {
+            title: "mysql", // 必要的
+            children:getCatalog('mysql')
           },
         ],
       },

@@ -12,4 +12,4 @@ showMessage: false
 ## 欢迎浏览与留言
 
 <Vssue/>
-
+<img src="./assets/gongan.png" />  [公安备案号：浙ICP备2022033261号-1](https://beian.miit.gov.cn/)
