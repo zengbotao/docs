@@ -120,6 +120,10 @@ module.exports = {
             title: "mysql", // 必要的
             children:getCatalog('mysql')
           },
+          {
+            title: "spring", // 必要的
+            children:getCatalog('spring')
+          },
         ],
       },
       {

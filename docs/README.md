@@ -9,7 +9,6 @@ showMessage: false
 
 > 我们一生中烦恼总是太多，人生，终是没有如果。决定你人生高度的，不是你的才能，而是你的态度。
 
-## 欢迎浏览与留言
+## 欢迎浏览
 
-<Vssue/>
 <img src="./assets/gongan.png" />  [公安备案号：浙ICP备2022033261号-1](https://beian.miit.gov.cn/)
